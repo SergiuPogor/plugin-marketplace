@@ -262,8 +262,8 @@
       }
     },
     "figma": {
-      "sha": "d638a5e055e8d95e0394a94350860398cf424b74",
-      "version": "2.2.111",
+      "sha": "172920731eedf414e9b22ae60017d9a5b6c9f81f",
+      "version": "2.2.120",
       "components": {
         "mcpServers": [
           {
@@ -278,7 +278,7 @@
           },
           {
             "name": "figma-create-new-file",
-            "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `create_new_file` tool call. NEVER call `create_ne…"
+            "description": "Always use this skill when the user wants to create a new Figma Design, FigJam, or Slides file. You MUST invoke this sk…"
           },
           {
             "name": "figma-design-to-code",
