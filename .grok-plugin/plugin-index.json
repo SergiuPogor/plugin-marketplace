@@ -408,8 +408,8 @@
       }
     },
     "modern-web-guidance": {
-      "sha": "16ed22b43fa56157adadfb25f18a354197d497b9",
-      "version": "0.0.189",
+      "sha": "22ab18dfb50a5d7e3bdcf471c14076a5534eae4e",
+      "version": "0.0.190",
       "components": {
         "skills": [
           {
