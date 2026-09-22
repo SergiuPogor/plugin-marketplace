@@ -529,8 +529,8 @@
       }
     },
     "netlify": {
-      "sha": "b113bc85757a20df478dcbe9ade81ec4b01d580f",
-      "version": "1.5.0",
+      "sha": "0830047fec55c33ea3f360b528c2039b9d96d97f",
+      "version": "1.5.1",
       "components": {
         "mcpServers": [
           {
