@@ -232,7 +232,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/railwayapp/railway-skills.git",
-        "sha": "ca21b2a1f9237163291a3a936b1cbb86752f4895",
+        "sha": "f48070c9542cc8bb22306deb6264c61675a27e70",
         "path": "plugins/railway"
       },
       "homepage": "https://github.com/railwayapp/railway-skills",

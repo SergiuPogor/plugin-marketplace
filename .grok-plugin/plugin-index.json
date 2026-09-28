@@ -849,8 +849,8 @@
       }
     },
     "railway": {
-      "sha": "ca21b2a1f9237163291a3a936b1cbb86752f4895",
-      "version": "1.5.5",
+      "sha": "f48070c9542cc8bb22306deb6264c61675a27e70",
+      "version": "1.6.0",
       "components": {
         "hooks": [
           {
