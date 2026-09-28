@@ -1378,8 +1378,8 @@
       }
     },
     "wix": {
-      "sha": "d40289a47fda4f4efd0b5fef0c599cc64432be66",
-      "version": "1.20.0",
+      "sha": "7d7375b57a9b84224355257b810db94f6c8dd235",
+      "version": "1.23.0",
       "components": {
         "mcpServers": [
           {
