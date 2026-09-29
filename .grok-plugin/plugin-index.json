@@ -917,8 +917,8 @@
       }
     },
     "stripe": {
-      "sha": "f23b5bad7a5b20d403bb11cf425044b85ee7c716",
-      "version": "0.9.2",
+      "sha": "6a482a7ab5aa0a2e461f68c5c1ea107232a80a45",
+      "version": "0.9.3",
       "components": {
         "agents": [
           {
