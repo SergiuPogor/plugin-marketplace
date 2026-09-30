@@ -1378,8 +1378,8 @@
       }
     },
     "wix": {
-      "sha": "7d7375b57a9b84224355257b810db94f6c8dd235",
-      "version": "1.23.0",
+      "sha": "4895cc9094b4fef2cf7cb7a2c408644aa58ab19d",
+      "version": "1.26.0",
       "components": {
         "mcpServers": [
           {
@@ -1395,10 +1395,6 @@
           {
             "name": "wix-app",
             "description": "Build and review Wix CLI app extensions — dashboard pages, modals, plugins, menu plugins, custom element widgets, Edito…"
-          },
-          {
-            "name": "wix-auth",
-            "description": "Authenticate with Wix to obtain an access token for calling Wix APIs. Use when an agent needs a valid Wix access token…"
           },
           {
             "name": "wix-base44-connector",
@@ -1417,7 +1413,11 @@
             "description": "Connect Wix business services (Stores, Bookings, CMS, Blog, Events, Forms, and more) to a Wix Headless frontend — infer…"
           },
           {
-            "name": "wix-headless-fast",
+            "name": "wix-headless-cold-start",
+            "description": "The fetch-and-follow entry pages for Wix Headless, addressable by URL in a prompt. headless-kit.md starts a wix-headles…"
+          },
+          {
+            "name": "wix-headless-kit",
             "description": "Build a Wix Headless site fast by wiring SHIPPED, verified @wix/sdk code instead of authoring the integration from reci…"
           },
           {
