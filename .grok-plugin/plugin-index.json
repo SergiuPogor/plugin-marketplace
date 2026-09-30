@@ -527,8 +527,8 @@
       }
     },
     "netlify": {
-      "sha": "0830047fec55c33ea3f360b528c2039b9d96d97f",
-      "version": "1.5.1",
+      "sha": "c840ee705c1fd1a3b74378a04b9770b3090a4122",
+      "version": "1.5.2",
       "components": {
         "mcpServers": [
           {
@@ -551,7 +551,7 @@
           },
           {
             "name": "netlify-blobs",
-            "description": "Store and retrieve unstructured data like file uploads, images, documents, JSON, and cache-like state with Netlify Blob…"
+            "description": "Store and retrieve unstructured objects, files, and cache-like state on Netlify with the @netlify/blobs module. Use whe…"
           },
           {
             "name": "netlify-caching",
@@ -571,7 +571,7 @@
           },
           {
             "name": "netlify-edge-functions",
-            "description": "Write, configure, and deploy Netlify Edge Functions (Deno runtime at the network edge) in TypeScript/JavaScript. Use wh…"
+            "description": "Write and configure Netlify Edge Functions — TypeScript/JavaScript handlers running in a Deno runtime at the network ed…"
           },
           {
             "name": "netlify-forms",
@@ -591,7 +591,7 @@
           },
           {
             "name": "netlify-image-cdn",
-            "description": "Transform, resize, crop, reformat, and optimize images on demand via Netlify Image CDN's /.netlify/images endpoint. Use…"
+            "description": "Transforms images on demand via Netlify Image CDN's /.netlify/images endpoint with query parameters for resizing/croppi…"
           },
           {
             "name": "netlify-mcp-servers",
