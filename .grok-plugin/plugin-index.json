@@ -330,8 +330,8 @@
       }
     },
     "firecrawl": {
-      "sha": "7100b62d09a40673fe1688175431b1baff7ed262",
-      "version": "1.2.0",
+      "sha": "fc26fcf97921f5b4db93b06e000b6366e8d67c48",
+      "version": "1.3.0",
       "components": {
         "commands": [
           {
@@ -353,6 +353,10 @@
           {
             "name": "firecrawl-agent",
             "description": "AI-powered autonomous data extraction that navigates complex sites and returns structured JSON. Use this skill when the…"
+          },
+          {
+            "name": "firecrawl-alexandria",
+            "description": "Get structured data from catalogued providers instead of scraping pages. Firecrawl Alexandria is a library of official…"
           },
           {
             "name": "firecrawl-crawl",
