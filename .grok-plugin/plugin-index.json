@@ -1167,8 +1167,8 @@
       }
     },
     "unity": {
-      "sha": "9c01e8d21cfefa28bc0a18f92ec910a738a1b1bc",
-      "version": "0.1.6-beta",
+      "sha": "de668bfd2e4ece0613c331e653c8c48b03e7238d",
+      "version": "0.1.8-beta",
       "components": {
         "skills": [
           {
