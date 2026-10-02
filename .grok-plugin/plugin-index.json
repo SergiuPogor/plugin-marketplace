@@ -921,8 +921,8 @@
       }
     },
     "stripe": {
-      "sha": "a188b0d644166d57b93dc6fb338a0e2e8c37b5fc",
-      "version": "0.9.4",
+      "sha": "27db051dba7cee2e13d2dbf6d65939cf412f5b3c",
+      "version": "0.9.6",
       "components": {
         "agents": [
           {
@@ -961,7 +961,7 @@
           },
           {
             "name": "stripe-apps",
-            "description": "Use when building, modifying, or reviewing a Stripe App — or when the user describes something that implies one (e.g. \"…"
+            "description": "Build, modify, or review Stripe Apps and extensions using the relevant documentation and reference guides. Use for cust…"
           },
           {
             "name": "stripe-best-practices",
