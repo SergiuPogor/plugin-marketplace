@@ -875,8 +875,8 @@
       }
     },
     "sentry": {
-      "sha": "3d0347fbc4f2bfd39a30c9a2107f52f3efc54d67",
-      "version": "1.4.1",
+      "sha": "b0569b6255e7e02a5d9e164d32df3e969688cada",
+      "version": "1.4.3",
       "components": {
         "mcpServers": [
           {
@@ -1307,8 +1307,8 @@
       }
     },
     "vercel": {
-      "sha": "31b69df377b88bed87d37944afc96c656ab23a04",
-      "version": "0.52.0",
+      "sha": "f0a392d164e4ee1a834008fe455220aec6c8895c",
+      "version": "0.53.0",
       "components": {
         "agents": [
           {
