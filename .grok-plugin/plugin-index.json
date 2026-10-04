@@ -2,8 +2,8 @@
   "version": 1,
   "plugins": {
     "axiom": {
-      "sha": "0e98ebaeec76a70c8fda9a7737605800c2f1245d",
-      "version": "1.0.0",
+      "sha": "8f26649612042662c1ea8318ff27a49a7c24531f",
+      "version": "1.1.0",
       "components": {
         "mcpServers": [
           {
@@ -29,16 +29,16 @@
             "description": "Analyzes Axiom query patterns to find unused data, then builds dashboards and monitors for cost optimization. Use when…"
           },
           {
+            "name": "metrics-chart",
+            "description": "Render Axiom metrics query results (application/vnd.metrics.v3+json) as line charts. Zero-dependency Unicode/ASCII by d…"
+          },
+          {
             "name": "query-metrics",
             "description": "Runs metrics queries against Axiom MetricsDB via scripts. Discovers available metrics, tags, and tag values. Use when a…"
           },
           {
             "name": "spl-to-apl",
             "description": "Translates Splunk SPL queries to Axiom APL. Provides command mappings, function equivalents, and syntax transformations…"
-          },
-          {
-            "name": "writing-evals",
-            "description": "Scaffolds evaluation suites for the Axiom AI SDK. Generates eval files, scorers, flag schemas, and config from natural-…"
           }
         ]
       }
@@ -875,8 +875,8 @@
       }
     },
     "sentry": {
-      "sha": "3d0347fbc4f2bfd39a30c9a2107f52f3efc54d67",
-      "version": "1.4.1",
+      "sha": "b0569b6255e7e02a5d9e164d32df3e969688cada",
+      "version": "1.4.3",
       "components": {
         "mcpServers": [
           {
@@ -1307,8 +1307,8 @@
       }
     },
     "vercel": {
-      "sha": "31b69df377b88bed87d37944afc96c656ab23a04",
-      "version": "0.52.0",
+      "sha": "f0a392d164e4ee1a834008fe455220aec6c8895c",
+      "version": "0.53.0",
       "components": {
         "agents": [
           {

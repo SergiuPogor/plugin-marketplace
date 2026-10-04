@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/vercel/vercel-plugin.git",
-        "sha": "31b69df377b88bed87d37944afc96c656ab23a04"
+        "sha": "f0a392d164e4ee1a834008fe455220aec6c8895c"
       },
       "homepage": "https://github.com/vercel/vercel-plugin",
       "keywords": ["vercel", "vercel deploy", "deploy to vercel"],
@@ -25,7 +25,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/getsentry/plugin-grok.git",
-        "sha": "3d0347fbc4f2bfd39a30c9a2107f52f3efc54d67"
+        "sha": "b0569b6255e7e02a5d9e164d32df3e969688cada"
       },
       "homepage": "https://github.com/getsentry/sentry-for-ai",
       "keywords": ["sentry"],
@@ -116,7 +116,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/axiomhq/skills.git",
-        "sha": "0e98ebaeec76a70c8fda9a7737605800c2f1245d"
+        "sha": "8f26649612042662c1ea8318ff27a49a7c24531f"
       },
       "homepage": "https://github.com/axiomhq/skills",
       "keywords": ["axiom"],
