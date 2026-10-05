@@ -1307,8 +1307,8 @@
       }
     },
     "vercel": {
-      "sha": "31b69df377b88bed87d37944afc96c656ab23a04",
-      "version": "0.52.0",
+      "sha": "f42fa617f208b3b192c9ec636cba1fb025924407",
+      "version": "0.54.0",
       "components": {
         "agents": [
           {
@@ -1372,7 +1372,7 @@
           },
           {
             "name": "ai-gateway",
-            "description": "Vercel AI Gateway guidance for setup, model discovery, authentication, routing, fallbacks, BYOK, budgets, spend reporti…"
+            "description": "Vercel AI Gateway guidance for setup, model discovery, authentication, routing, fallbacks, virtual models, evaluation m…"
           },
           {
             "name": "ai-sdk",
@@ -1380,7 +1380,7 @@
           },
           {
             "name": "auth",
-            "description": "Authentication integration guidance — Clerk (native Vercel Marketplace), Descope, and Auth0 setup for Next.js applicati…"
+            "description": "Authentication integration guidance — Clerk (native Vercel Marketplace), Better Auth, Descope, and Auth0 setup for Next…"
           },
           {
             "name": "bootstrap",
@@ -1425,6 +1425,10 @@
           {
             "name": "flags-sdk",
             "description": "Set up and use feature flags and A/B tests with the Flags SDK (`flags` npm package) and Vercel Flags. Use when installi…"
+          },
+          {
+            "name": "is-agentic",
+            "description": "Score how ready a website, domain, or public MCP endpoint is for AI agents using Is Agentic, and read or act on the res…"
           },
           {
             "name": "knowledge-update",
