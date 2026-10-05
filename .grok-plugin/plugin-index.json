@@ -921,8 +921,8 @@
       }
     },
     "stripe": {
-      "sha": "27db051dba7cee2e13d2dbf6d65939cf412f5b3c",
-      "version": "0.9.6",
+      "sha": "c40002aa6047acaa72e290cdbb22d9b77739d798",
+      "version": "0.9.9",
       "components": {
         "agents": [
           {
