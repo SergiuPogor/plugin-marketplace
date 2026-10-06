@@ -427,8 +427,8 @@
       }
     },
     "modern-web-guidance": {
-      "sha": "84ae7251ee919239d5ea85aef25897983f26601e",
-      "version": "0.0.191",
+      "sha": "650eb83619134adb947b1ee8755e6511270bc444",
+      "version": "0.0.192",
       "components": {
         "skills": [
           {
