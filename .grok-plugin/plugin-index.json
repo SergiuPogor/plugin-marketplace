@@ -1531,8 +1531,8 @@
       }
     },
     "wix": {
-      "sha": "4895cc9094b4fef2cf7cb7a2c408644aa58ab19d",
-      "version": "1.26.0",
+      "sha": "6461e8dd0a4e2649d211cdbc65c699c6e44f86a2",
+      "version": "1.30.0",
       "components": {
         "mcpServers": [
           {
@@ -1572,6 +1572,10 @@
           {
             "name": "wix-headless-kit",
             "description": "Build a Wix Headless site fast by wiring SHIPPED, verified @wix/sdk code instead of authoring the integration from reci…"
+          },
+          {
+            "name": "wix-headless-templates",
+            "description": "The shipped, verified code behind Wix Headless sites, one folder per Wix Business Solution: an online store, bookings,…"
           },
           {
             "name": "wix-manage",
