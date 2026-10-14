@@ -434,6 +434,28 @@
         ]
       }
     },
+    "html-css-to-image": {
+      "sha": "73eb09e39e26cf7029800533ef180bbe0286fd73",
+      "version": "0.2.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "hcti",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "hcti-image-generation",
+            "description": "Let AI agents capture live website screenshots, render HTML/CSS, and populate reusable templates as images or PDFs—with…"
+          },
+          {
+            "name": "hcti-open-graph-images",
+            "description": "Create and implement HCTI dynamic Open Graph image configurations that render webpages or populate templates from page…"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55",
       "version": "0.0.194",
