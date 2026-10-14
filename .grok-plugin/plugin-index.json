@@ -888,8 +888,8 @@
       }
     },
     "railway": {
-      "sha": "4db2ee90245d61be0ffea28280164373ac3f96c0",
-      "version": "1.6.1",
+      "sha": "526e95524e964ed326689cbac4464d97a58ab81c",
+      "version": "1.7.0",
       "components": {
         "hooks": [
           {
