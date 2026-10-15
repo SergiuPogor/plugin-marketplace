@@ -728,6 +728,7 @@
     },
     "pstack": {
       "sha": "e5136d82418d2db3165ea1050d17577cd618cc05",
+      "version": "0.15.25",
       "components": {
         "agents": [
           {
