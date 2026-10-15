@@ -285,8 +285,8 @@
       }
     },
     "figma": {
-      "sha": "2b85b7d27bd6ee124667fcfe88856f6b1f81671a",
-      "version": "2.2.155",
+      "sha": "f2789420e7e8b4e2465dfeb1e12e1fc6a31397e5",
+      "version": "2.2.157",
       "components": {
         "mcpServers": [
           {
@@ -298,6 +298,10 @@
           {
             "name": "figma-code-connect",
             "description": "Creates and maintains Figma Code Connect template files that map Figma components to code snippets. Use when the user m…"
+          },
+          {
+            "name": "figma-code-workflows",
+            "description": "Import or upload local HTML or project files into Figma, choose editable Design frames, runnable Code Layers or standal…"
           },
           {
             "name": "figma-create-new-file",
@@ -330,6 +334,10 @@
           {
             "name": "figma-shaders",
             "description": "**MANDATORY prerequisite** — load this skill before calling `create_shader` or `update_shader`. Use when the user asks…"
+          },
+          {
+            "name": "figma-spec",
+            "description": "This skill is required to create, read, edit, review, or comment on Figma specs. You must read it when working on a PRD…"
           },
           {
             "name": "figma-swiftui",
